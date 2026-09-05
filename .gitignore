@@ -1,0 +1,12 @@
+﻿node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Python environment and cache files
+venv/
+__pycache__/
+*.pyc

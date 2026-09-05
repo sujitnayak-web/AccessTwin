@@ -77,8 +77,8 @@ Before you begin, ensure you have the following installed on your system:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sujitnayak-web/BajrangBytes.git
-cd BajrangBytes
+git clone https://github.com/sujitnayak-web/AccessTwin.git
+cd AccessTwin
 ```
 
 ### 2. Install Dependencies
@@ -118,4 +118,4 @@ npm run dev
 
 ---
 
-<p align="center"><i>Made with ❤️ by Bajrang Bytes for an accessible and inclusive future.</i></p>
+<p align="center"><i>Made with ❤️ and ☕</i></p>

@@ -40,11 +40,11 @@ In India, millions of citizens with physical or visual impairments struggle to n
 
 | Interactive Digital Twin Map | Turn-by-Turn Voice Navigation |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/63dd14c9-7088-4e3f-ba74-6503c9ea8d58" width="100%" alt="Dashboard" /> | <img src="https://github.com/user-attachments/assets/268a0c86-8ec7-40df-adaa-968482f6cc4a" width="100%" alt="Turn-by-Turn voice nav" /> |
+| <img src="Screenshot 2026-09-06 004331.png" width="100%" alt="Dashboard" /> | <img src="Screenshot 2026-09-06 004724.png" width="100%" alt="Turn-by-Turn voice nav" /> |
 
 | TwinGram Social Feed | AI Barrier Detection |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/41c2be88-46f5-43ad-b09b-4913dec15053" width="100%" alt="TwinGram Feed" /> | <img src="https://github.com/user-attachments/assets/66bc54a9-4781-4d2a-9fe7-43964c4aeae0" width="100%" alt="AI Detection" /> |
+| <img src="Screenshot 2026-09-06 004351.png" width="100%" alt="TwinGram Feed" /> | <img src="Screenshot 2026-09-06 004648.png" width="100%" alt="AI Detection" /> |
 
 ---
 

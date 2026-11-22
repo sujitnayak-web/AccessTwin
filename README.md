@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Links & Resources
-* **Web page Link:** [Click here to watch](https://access-twin-jade.vercel.app/)
+* **Web page Link:** [Click here to Visit](https://access-twin-jade.vercel.app/)
 * **🎥 Live Demo Video:** [Click here to watch](https://youtu.be/cX1xIBF4Xcw?si=ZLj8DDvy2Krl5lR5)
 * **📑 Pitch Deck / Presentation:** [View PPT Here](https://github.com/user-attachments/files/31342501/IDEATHON.PPT.pdf)
 
